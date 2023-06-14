@@ -23,3 +23,9 @@ h1,h2,h3,h4,h5,h6,p,i,a{
     justify-content: center;
     align-items: center;
 }
+
+/* shoes section  */
+#shoes-part{
+    display:flex;
+    gap: 20px;
+}
