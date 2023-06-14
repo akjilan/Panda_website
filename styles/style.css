@@ -6,7 +6,7 @@
 }
 
 h1,h2,h3,h4,h5,h6,p,i,a{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif
 
 }
 
@@ -14,18 +14,12 @@ h1,h2,h3,h4,h5,h6,p,i,a{
 
 /* slider section  */
 
-.slider-info{
-    background-color: #494949;
-}
+
 .slider-info {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: start;
 }
 
 /* shoes section  */
-#shoes-part{
-    display:flex;
-    gap: 20px;
-}
